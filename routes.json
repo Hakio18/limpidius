@@ -1,0 +1,5 @@
+{
+    "/limpidius/*": "/$1",
+    "/:category": "/products?marque=:category",
+    "/:category/:id": "/products?marque=:category&id=:id"
+}
