@@ -1,0 +1,105 @@
+{
+	"users": [
+	    {
+		"id":"3101104650591",
+		"name":"Marie",
+		"active": true,
+		"role":"SAV"
+	    },
+	    {
+		"id":"7000057249363",
+		"name":"Jules",
+		"active": false,
+		"role":"VIGILE"
+	    },{
+		"id":"C680310491515090220504331",
+		"name":"Hugues",
+		"active": true,
+		"role":"VIGILE"
+	    },{
+		"id":"28796450",
+		"name":"Noémie",
+		"active": true,
+		"role":"SAV"
+	    },
+	    {
+		"id":"9991269716935",
+		"name":"Nathalie",
+		"active": false,
+		"role":"SAV"
+	    },
+	    {
+		"id":"6363297003603325293",
+		"name":"Fanny",
+		"active": true,
+		"role":"VIGILE"
+	    },{
+		"id":"660700049049200000399720210413102851",
+		"name":"Dénis",
+		"active": false,
+		"role":"VIGILE"
+	    },{
+		"id":"0491243920680",
+		"name":"Auguste",
+		"active": false,
+		"role":"SAV"
+	    }
+	],
+	"products" : [
+	    {
+		"id":"3101104650591",
+		"label":"Lait demi-écrémé",
+		"marque": "Candia",
+		"prix": 0.95,
+		"stock": 120
+	    },
+	    {
+		"id":"7000057249363",
+		"label":"Pantalion chino",
+		"marque": "Bonobo",
+		"prix": 70.00,
+		"stock": 30
+	    },{
+		"id":"C680310491515090220504331",
+		"label":"Caméra focus x200",
+		"marque": "Nikon",
+		"prix": 120.00,
+		"stock": 20
+	    },{
+		"id":"28796450",
+		"label":"Crème de soin",
+		"marque": "Nivéa",
+		"prix": 9.00,
+		"stock": 80
+	    },
+	    {
+		"id":"9991269716935",
+		"label":"Tente 2 places",
+		"marque": "Quechua",
+		"prix": 80.00,
+		"stock": 10
+	    },
+	    {
+		"id":"6363297003603325293",
+		"label":"Téléviseur incurvé",
+		"marque": "LG",
+		"prix":1200.00,
+		"stock": 10
+	    },{
+		"id":"660700049049200000399720210413102851",
+		"label":"Vélo électrique",
+		"marque": "BTwin",
+		"prix": 800.00,
+		"stock": 8
+	    },{
+		"id":"0491243920680",
+		"label":"Beurre demi-sel",
+		"marque": "Paysan Breton",
+		"prix": 3.50,
+		"stock": 100
+	    }
+	],
+	"profile": {
+	    "name": "Hakio18"
+	  }
+}
