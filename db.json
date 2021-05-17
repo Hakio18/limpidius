@@ -1,4 +1,50 @@
 {
+	"users": [
+	    {
+			"customerId":"3101104650591",
+			"name":"Marie",
+			"active": true,
+			"role":"SAV"
+	    },
+	    {
+			"customerId":"7000057249363",
+			"name":"Jules",
+			"active": false,
+			"role":"VIGILE"
+	    },{
+			"customerId":"C680310491515090220504331",
+			"name":"Hugues",
+			"active": true,
+			"role":"VIGILE"
+	    },{
+			"customerId":"28796450",
+			"name":"Noémie",
+			"active": true,
+			"role":"SAV"
+	    },
+	    {
+			"customerId":"9991269716935",
+			"name":"Nathalie",
+			"active": false,
+			"role":"SAV"
+	    },
+	    {
+			"customerId":"6363297003603325293",
+			"name":"Fanny",
+			"active": true,
+			"role":"VIGILE"
+	    },{
+			"customerId":"660700049049200000399720210413102851",
+			"name":"Dénis",
+			"active": false,
+			"role":"VIGILE"
+	    },{
+			"customerId":"0491243920680",
+			"name":"Auguste",
+			"active": false,
+			"role":"SAV"
+	    }
+	],
 	"customers": [
 		{
 			"id": "3101104650591",
