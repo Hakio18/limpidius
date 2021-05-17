@@ -1,4 +1,2 @@
 {
-    "/:category": "/products?marque=:category",
-    "/:category/:id": "/products?marque=:category&id=:id"
 }
