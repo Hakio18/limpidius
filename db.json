@@ -1,354 +1,354 @@
 {
-	"users": [
+	"users":[
 	    {
 			"id":"3101104650591",
 			"name":"Marie",
-			"active": true,
+			"active":true,
 			"role":"SAV"
 	    },
 	    {
 			"id":"7000057249363",
 			"name":"Jules",
-			"active": false,
+			"active":false,
 			"role":"VIGILE"
 	    },{
 			"id":"C680310491515090220504331",
 			"name":"Hugues",
-			"active": true,
+			"active":true,
 			"role":"VIGILE"
 	    },{
 			"id":"28796450",
 			"name":"Noémie",
-			"active": true,
+			"active":true,
 			"role":"SAV"
 	    },
 	    {
 			"id":"9991269716935",
 			"name":"Nathalie",
-			"active": false,
+			"active":false,
 			"role":"SAV"
 	    },
 	    {
 			"id":"6363297003603325293",
 			"name":"Fanny",
-			"active": true,
+			"active":true,
 			"role":"VIGILE"
 	    },{
 			"id":"660700049049200000399720210413102851",
 			"name":"Dénis",
-			"active": false,
+			"active":false,
 			"role":"VIGILE"
 	    },{
 			"id":"0491243920680",
 			"name":"Auguste",
-			"active": false,
+			"active":false,
 			"role":"SAV"
 	    }
 	],
-	"customers": [
+	"customers":[
 		{
-			"id": "3101104650591",
-			"createdAt": "2020-01-13T18:30:03.660Z",
-			"updatedAt": "2020-01-13T18:30:03.660Z",
-			"externalRef": "3333456789012",
-			"firstName": "adam",
-			"lastName": "declercq",
-			"birthDayDate": "1990-05-22T12:07:47.547Z",
-			"title": "monsieur",
-			"cardStatus": "valid"
+			"id":"3101104650591",
+			"createdAt":"2020-01-13T18:30:03.660Z",
+			"updatedAt":"2020-01-13T18:30:03.660Z",
+			"externalRef":"3333456789012",
+			"firstName":"adam",
+			"lastName":"declercq",
+			"birthDayDate":"1990-05-22T12:07:47.547Z",
+			"title":"monsieur",
+			"cardStatus":"valid"
 		},
 		{
-			"id": "7000057249363",
-			"createdAt": "2020-01-13T18:30:16.786Z",
-			"updatedAt": "2020-01-13T18:30:16.786Z",
-			"externalRef": "3338901234567",
-			"firstName": "aldebert",
-			"lastName": "fredrich",
-			"birthDayDate": "1990-05-22T12:07:47.547Z",
-			"title": "monsieur",
-			"cardStatus": "used"
+			"id":"7000057249363",
+			"createdAt":"2020-01-13T18:30:16.786Z",
+			"updatedAt":"2020-01-13T18:30:16.786Z",
+			"externalRef":"3338901234567",
+			"firstName":"aldebert",
+			"lastName":"fredrich",
+			"birthDayDate":"1990-05-22T12:07:47.547Z",
+			"title":"monsieur",
+			"cardStatus":"used"
 		},
 		{
-			"id": "C680310491515090220504331",
-			"createdAt": "2020-01-13T18:30:21.407Z",
-			"updatedAt": "2020-01-13T18:30:21.407Z",
-			"externalRef": "3337890123456",
-			"firstName": "mérédith",
-			"lastName": "hallister",
-			"birthDayDate": "1990-05-22T12:07:47.547Z",
-			"title": "madame",
-			"cardStatus": "unvalid"
+			"id":"C680310491515090220504331",
+			"createdAt":"2020-01-13T18:30:21.407Z",
+			"updatedAt":"2020-01-13T18:30:21.407Z",
+			"externalRef":"3337890123456",
+			"firstName":"mérédith",
+			"lastName":"hallister",
+			"birthDayDate":"1990-05-22T12:07:47.547Z",
+			"title":"madame",
+			"cardStatus":"unvalid"
 		},
 		{
-			"id": "28796450",
-			"createdAt": "2020-01-13T22:24:59.105Z",
-			"updatedAt": "2020-01-13T22:24:59.105Z",
-			"externalRef": "414347t36",
-			"firstName": "michelle",
-			"lastName": "denise",
-			"birthDayDate": "1990-05-22T12:07:47.547Z",
-			"title": "madame",
-			"cardStatus": "valid"
+			"id":"28796450",
+			"createdAt":"2020-01-13T22:24:59.105Z",
+			"updatedAt":"2020-01-13T22:24:59.105Z",
+			"externalRef":"414347t36",
+			"firstName":"michelle",
+			"lastName":"denise",
+			"birthDayDate":"1990-05-22T12:07:47.547Z",
+			"title":"madame",
+			"cardStatus":"valid"
 		},
 		{
-			"id": "9991269716935",
-			"createdAt": "2020-01-14T08:18:45.431Z",
-			"updatedAt": "2020-06-09T08:27:06.481Z",
-			"externalRef": "3336789012345",
-			"externalCRMRef": null,
-			"firstName": "camille",
-			"lastName": "barnier",
-			"birthDayDate": "1990-05-22T12:07:47.547Z",
-			"title": "monsieur",
-			"cardStatus": "unvalid"
+			"id":"9991269716935",
+			"createdAt":"2020-01-14T08:18:45.431Z",
+			"updatedAt":"2020-06-09T08:27:06.481Z",
+			"externalRef":"3336789012345",
+			"externalCRMRef":null,
+			"firstName":"camille",
+			"lastName":"barnier",
+			"birthDayDate":"1990-05-22T12:07:47.547Z",
+			"title":"monsieur",
+			"cardStatus":"unvalid"
 		},
 		{
-			"id": "6363297003603325293",
-			"createdAt": "2020-01-20T16:50:46.762Z",
-			"updatedAt": "2020-07-21T12:54:08.710Z",
-			"externalRef": "test",
-			"externalCRMRef": null,
-			"firstName": "estelle",
-			"lastName": "maillet",
-			"birthDayDate": "1990-05-22T12:07:47.547Z",
-			"title": "madame",
-			"cardStatus": "valid"
+			"id":"6363297003603325293",
+			"createdAt":"2020-01-20T16:50:46.762Z",
+			"updatedAt":"2020-07-21T12:54:08.710Z",
+			"externalRef":"test",
+			"externalCRMRef":null,
+			"firstName":"estelle",
+			"lastName":"maillet",
+			"birthDayDate":"1990-05-22T12:07:47.547Z",
+			"title":"madame",
+			"cardStatus":"valid"
 		},
 		{
-			"id": "660700049049200000399720210413102851",
-			"createdAt": "2020-05-11T10:04:43.483Z",
-			"updatedAt": "2020-05-11T10:04:43.483Z",
-			"externalRef": "postman-ABC",
-			"firstName": "mireille",
-			"lastName": "jibet",
-			"birthDayDate": "1990-05-22T12:07:47.547Z",
-			"title": "madame",
-			"cardStatus": "used"
+			"id":"660700049049200000399720210413102851",
+			"createdAt":"2020-05-11T10:04:43.483Z",
+			"updatedAt":"2020-05-11T10:04:43.483Z",
+			"externalRef":"postman-ABC",
+			"firstName":"mireille",
+			"lastName":"jibet",
+			"birthDayDate":"1990-05-22T12:07:47.547Z",
+			"title":"madame",
+			"cardStatus":"used"
 		},
 		{
-			"id": "0491243920680",
-			"createdAt": "2020-05-27T12:07:47.547Z",
-			"updatedAt": "2020-05-27T12:07:47.547Z",
-			"externalRef": "michel.test@email.com",
-			"firstName": "michel",
-			"lastName": "testeur",
-			"birthDayDate": "1990-05-22T12:07:47.547Z",
-			"title": "monsieur",
-			"cardStatus": "used"
+			"id":"0491243920680",
+			"createdAt":"2020-05-27T12:07:47.547Z",
+			"updatedAt":"2020-05-27T12:07:47.547Z",
+			"externalRef":"michel.test@email.com",
+			"firstName":"michel",
+			"lastName":"testeur",
+			"birthDayDate":"1990-05-22T12:07:47.547Z",
+			"title":"monsieur",
+			"cardStatus":"used"
 		}
 	],
-	"transaction-receipts" : [
+	"transaction-receipts" :[
 		{
-			"id": "3101104650591",
-			"createdAt": "2020-05-18T09:55:04.026Z",
-			"updatedAt": "2020-05-18T09:55:04.026Z",
-			"transactionRef": "BUJnVJqDCVvBWt4MUzYtGeg56fW0hKbu3oa+9GzSvoI=",
-			"date": "2020-05-18T09:54:53.420Z",
-			"content": "**********\nTOTAL 121.90\n**********\n<barcode>\n",
-			"barcodes": ["3101104650591", "3101104650591", "C680310491515090220504331"],
-			"storeId": "92f2cb75-41a4-4dc6-af01-fd34aad60c94",
-			"filename": "ticket_de_caisse.pdf",
-			"dimensions": {}
+			"id":"3101104650591",
+			"createdAt":"2020-05-18T09:55:04.026Z",
+			"updatedAt":"2020-05-18T09:55:04.026Z",
+			"transactionRef":"BUJnVJqDCVvBWt4MUzYtGeg56fW0hKbu3oa+9GzSvoI=",
+			"date":"2020-05-18T09:54:53.420Z",
+			"content":"*******\nTOTAL 121.90\n*******\n<barcode>\n",
+			"barcodes":["3101104650591", "3101104650591", "C680310491515090220504331"],
+			"storeId":"92f2cb75-41a4-4dc6-af01-fd34aad60c94",
+			"filename":"ticket_de_caisse.pdf",
+			"dimensions":{}
 		},
 		{
-			"id": "7000057249363",
-			"createdAt": "2020-05-18T09:59:23.751Z",
-			"updatedAt": "2020-05-18T09:59:23.751Z",
-			"transactionRef": "TUcCfYcyYPcmLAAKUvTvH6UecfHA8+Nvo9kKpPGHpBY=",
-			"date": "2020-05-18T09:59:19.836Z",
-			"content": "**********\nTOTAL 1320.95\n**********\n<barcode>\n",
-			"barcodes": ["3101104650591", "C680310491515090220504331", "6363297003603325293"],
-			"storeId": "af1ddf1c-68cf-44e8-b560-6eab3c80c6d1",
-			"filename": "ticket_de_caisse.pdf",
-			"dimensions": {}
+			"id":"7000057249363",
+			"createdAt":"2020-05-18T09:59:23.751Z",
+			"updatedAt":"2020-05-18T09:59:23.751Z",
+			"transactionRef":"TUcCfYcyYPcmLAAKUvTvH6UecfHA8+Nvo9kKpPGHpBY=",
+			"date":"2020-05-18T09:59:19.836Z",
+			"content":"*******\nTOTAL 1320.95\n*******\n<barcode>\n",
+			"barcodes":["3101104650591", "C680310491515090220504331", "6363297003603325293"],
+			"storeId":"af1ddf1c-68cf-44e8-b560-6eab3c80c6d1",
+			"filename":"ticket_de_caisse.pdf",
+			"dimensions":{}
 		},
 		{
-			"id": "C680310491515090220504331",
-			"createdAt": "2020-05-18T10:00:18.839Z",
-			"updatedAt": "2020-05-18T10:00:18.839Z",
-			"transactionRef": "2fsTcAMXEvmnop6aU26qWGVYVRZibhSQfYojAaGJc5Y=",
-			"date": "2020-05-18T10:00:15.764Z",
-			"content": "**********\nTOTAL 91.85\n**********\n<barcode>\n",
-			"barcodes": ["28796450", "9991269716935", "3101104650591", "3101104650591", "3101104650591"],
-			"storeId": "ed6bebdd-6030-4776-a46f-cc87f7f1b00f",
-			"filename": "ticket_de_caisse.pdf",
-			"dimensions": {}
+			"id":"C680310491515090220504331",
+			"createdAt":"2020-05-18T10:00:18.839Z",
+			"updatedAt":"2020-05-18T10:00:18.839Z",
+			"transactionRef":"2fsTcAMXEvmnop6aU26qWGVYVRZibhSQfYojAaGJc5Y=",
+			"date":"2020-05-18T10:00:15.764Z",
+			"content":"*******\nTOTAL 91.85\n*******\n<barcode>\n",
+			"barcodes":["28796450", "9991269716935", "3101104650591", "3101104650591", "3101104650591"],
+			"storeId":"ed6bebdd-6030-4776-a46f-cc87f7f1b00f",
+			"filename":"ticket_de_caisse.pdf",
+			"dimensions":{}
 		},
 		{
-			"id": "28796450",
-			"createdAt": "2020-05-18T10:01:18.108Z",
-			"updatedAt": "2020-05-18T10:01:18.108Z",
-			"transactionRef": "wRdL2qsnx1h9aedvMDPq+CicFje9IQnPLVEmQlixiYQ=",
-			"date": "2020-05-18T10:01:15.265Z",
-			"content": "**********\nTOTAL 200.00\n**********\n<barcode>\n",
-			"barcodes": ["9991269716935", "C680310491515090220504331"],
-			"storeId": "103c8ee4-1f5a-4e01-9ba7-a4ce0cc3bebd",
-			"filename": "ticket_de_caisse.pdf",
-			"dimensions": {}
+			"id":"28796450",
+			"createdAt":"2020-05-18T10:01:18.108Z",
+			"updatedAt":"2020-05-18T10:01:18.108Z",
+			"transactionRef":"wRdL2qsnx1h9aedvMDPq+CicFje9IQnPLVEmQlixiYQ=",
+			"date":"2020-05-18T10:01:15.265Z",
+			"content":"*******\nTOTAL 200.00\n*******\n<barcode>\n",
+			"barcodes":["9991269716935", "C680310491515090220504331"],
+			"storeId":"103c8ee4-1f5a-4e01-9ba7-a4ce0cc3bebd",
+			"filename":"ticket_de_caisse.pdf",
+			"dimensions":{}
 		},
 		{
-			"id": "9991269716935",
-			"createdAt": "2020-05-18T10:05:57.855Z",
-			"updatedAt": "2020-05-18T10:05:57.855Z",
-			"transactionRef": "AldRwFnzVc/73lR1ZH0Be60Q/keFfyxGvUfgbMZEDbA=",
-			"date": "2020-05-18T10:05:54.536Z",
-			"content": "**********\nTOTAL 803.50\n**********\n<barcode>\n",
-			"barcodes": ["0491243920680", "660700049049200000399720210413102851"],
-			"storeId": "06666fab-49ab-42da-8243-7561944a84b6",
-			"filename": "ticket_de_caisse.pdf",
-			"dimensions": {}
+			"id":"9991269716935",
+			"createdAt":"2020-05-18T10:05:57.855Z",
+			"updatedAt":"2020-05-18T10:05:57.855Z",
+			"transactionRef":"AldRwFnzVc/73lR1ZH0Be60Q/keFfyxGvUfgbMZEDbA=",
+			"date":"2020-05-18T10:05:54.536Z",
+			"content":"*******\nTOTAL 803.50\n*******\n<barcode>\n",
+			"barcodes":["0491243920680", "660700049049200000399720210413102851"],
+			"storeId":"06666fab-49ab-42da-8243-7561944a84b6",
+			"filename":"ticket_de_caisse.pdf",
+			"dimensions":{}
 		},
 		{
-			"id": "6363297003603325293",
-			"createdAt": "2020-05-18T10:24:18.711Z",
-			"updatedAt": "2020-05-18T10:24:18.711Z",
-			"transactionRef": "eQfDF7Dc1zeFma2/M3U6S7jHjVw6roPhbTLy+QEMhbk=",
-			"date": "2020-05-18T10:10:42.070Z",
-			"content": "**********\nTOTAL 2000.00\n**********\n<barcode>\n",
-			"barcodes": ["6363297003603325293", "660700049049200000399720210413102851"],
-			"storeId": "1ab0b6bd-b56f-4ac3-9b07-1caddaa3a813",
-			"filename": "ticket_de_caisse.pdf",
-			"dimensions": {}
+			"id":"6363297003603325293",
+			"createdAt":"2020-05-18T10:24:18.711Z",
+			"updatedAt":"2020-05-18T10:24:18.711Z",
+			"transactionRef":"eQfDF7Dc1zeFma2/M3U6S7jHjVw6roPhbTLy+QEMhbk=",
+			"date":"2020-05-18T10:10:42.070Z",
+			"content":"*******\nTOTAL 2000.00\n*******\n<barcode>\n",
+			"barcodes":["6363297003603325293", "660700049049200000399720210413102851"],
+			"storeId":"1ab0b6bd-b56f-4ac3-9b07-1caddaa3a813",
+			"filename":"ticket_de_caisse.pdf",
+			"dimensions":{}
 		},
 		{
-			"id": "660700049049200000399720210413102851",
-			"createdAt": "2020-05-18T10:24:22.847Z",
-			"updatedAt": "2020-05-18T10:24:22.847Z",
-			"transactionRef": "/0+EumLsuAmdd+AmZMqf8CHxhYhyoDzELmbgu7yOv3k=",
-			"date": "2020-05-18T10:08:22.980Z",
-			"content": "**********\nTOTAL 8.90\n**********\n<barcode>\n",
-			"barcodes": ["3101104650591", "0491243920680", "0491243920680", "3101104650591"],
-			"storeId": "57218211-4412-4f79-94cb-db3d6d8bf59b",
-			"filename": "ticket_de_caisse.pdf",
-			"dimensions": {}
+			"id":"660700049049200000399720210413102851",
+			"createdAt":"2020-05-18T10:24:22.847Z",
+			"updatedAt":"2020-05-18T10:24:22.847Z",
+			"transactionRef":"/0+EumLsuAmdd+AmZMqf8CHxhYhyoDzELmbgu7yOv3k=",
+			"date":"2020-05-18T10:08:22.980Z",
+			"content":"*******\nTOTAL 8.90\n*******\n<barcode>\n",
+			"barcodes":["3101104650591", "0491243920680", "0491243920680", "3101104650591"],
+			"storeId":"57218211-4412-4f79-94cb-db3d6d8bf59b",
+			"filename":"ticket_de_caisse.pdf",
+			"dimensions":{}
 		},
 		{
-			"id": "0491243920680",
-			"createdAt": "2020-05-18T10:24:24.423Z",
-			"updatedAt": "2020-05-18T10:24:24.423Z",
-			"transactionRef": "M7Kr+dX8qBc97n81sFpvuwUVUvTF5+AC/gj/dMOT0Go=",
-			"date": "2020-05-18T10:10:03.079Z",
-			"content": "**********\nTOTAL 800.95\n**********\n<barcode>\n",
-			"barcodes": ["3101104650591", "660700049049200000399720210413102851"],
-			"storeId": "a8c72880-5d5b-4b56-bc08-2fcaa4257e8f",
-			"filename": "ticket_de_caisse.pdf",
-			"dimensions": {}
+			"id":"0491243920680",
+			"createdAt":"2020-05-18T10:24:24.423Z",
+			"updatedAt":"2020-05-18T10:24:24.423Z",
+			"transactionRef":"M7Kr+dX8qBc97n81sFpvuwUVUvTF5+AC/gj/dMOT0Go=",
+			"date":"2020-05-18T10:10:03.079Z",
+			"content":"*******\nTOTAL 800.95\n*******\n<barcode>\n",
+			"barcodes":["3101104650591", "660700049049200000399720210413102851"],
+			"storeId":"a8c72880-5d5b-4b56-bc08-2fcaa4257e8f",
+			"filename":"ticket_de_caisse.pdf",
+			"dimensions":{}
 		}
 	],
-	"contacts": [
+	"contacts":[
 		{
-			"id": "3101104650591",
-			"createdAt": "2021-04-19T09:43:21.289Z",
-			"updatedAt": "2021-05-05T14:23:31.296Z",
-			"customerId": "0491243920680",
-			"type": "email",
-			"value": "adam.declercq@limpidius.com",
-			"lastUsedAt": "2021-05-05T13:13:37.135Z",
-			"bouncedAt": null,
-			"purposes": [
+			"id":"3101104650591",
+			"createdAt":"2021-04-19T09:43:21.289Z",
+			"updatedAt":"2021-05-05T14:23:31.296Z",
+			"customerId":"0491243920680",
+			"type":"email",
+			"value":"adam.declercq@limpidius.com",
+			"lastUsedAt":"2021-05-05T13:13:37.135Z",
+			"bouncedAt":null,
+			"purposes":[
 				{
-					"value": "demat"
+					"value":"demat"
 				}
 			]
 		},
 		{
-			"id": "7000057249363",
-			"createdAt": "2021-05-03T14:55:42.315Z",
-			"updatedAt": "2021-05-03T14:55:42.315Z",
-			"customerId": "660700049049200000399720210413102851",
-			"type": "email",
-			"value": "adam.declercq+376578214@limpidius.com",
-			"lastUsedAt": "2021-05-03T14:55:42.315Z",
-			"purposes": [
+			"id":"7000057249363",
+			"createdAt":"2021-05-03T14:55:42.315Z",
+			"updatedAt":"2021-05-03T14:55:42.315Z",
+			"customerId":"660700049049200000399720210413102851",
+			"type":"email",
+			"value":"adam.declercq+376578214@limpidius.com",
+			"lastUsedAt":"2021-05-03T14:55:42.315Z",
+			"purposes":[
 				{
-					"value": "digital"
+					"value":"digital"
 				}
 			]
 		},
 		{
-			"id": "C680310491515090220504331",
-			"createdAt": "2021-04-15T14:50:18.198Z",
-			"updatedAt": "2021-04-15T14:50:36.643Z",
-			"customerId": "6363297003603325293",
-			"type": "email",
-			"value": "adam.ghgshdgs@limpidius.com",
-			"lastUsedAt": "2021-04-15T14:50:15.725Z",
-			"bouncedAt": "2021-04-15T14:50:19.000Z",
-			"purposes": [
+			"id":"C680310491515090220504331",
+			"createdAt":"2021-04-15T14:50:18.198Z",
+			"updatedAt":"2021-04-15T14:50:36.643Z",
+			"customerId":"6363297003603325293",
+			"type":"email",
+			"value":"adam.ghgshdgs@limpidius.com",
+			"lastUsedAt":"2021-04-15T14:50:15.725Z",
+			"bouncedAt":"2021-04-15T14:50:19.000Z",
+			"purposes":[
 				{
-					"value": "demat"
+					"value":"demat"
 				}
 			]
 		},
 		{
-			"id": "28796450",
-			"createdAt": "2021-04-15T13:52:28.333Z",
-			"updatedAt": "2021-04-15T13:55:13.896Z",
-			"customerId": "9991269716935",
-			"type": "email",
-			"value": "adam.declercq@limpidius.com",
-			"lastUsedAt": "2021-04-15T13:55:13.545Z",
-			"bouncedAt": null,
-			"purposes": [
+			"id":"28796450",
+			"createdAt":"2021-04-15T13:52:28.333Z",
+			"updatedAt":"2021-04-15T13:55:13.896Z",
+			"customerId":"9991269716935",
+			"type":"email",
+			"value":"adam.declercq@limpidius.com",
+			"lastUsedAt":"2021-04-15T13:55:13.545Z",
+			"bouncedAt":null,
+			"purposes":[
 				{
-					"value": "demat"
+					"value":"demat"
 				}
 			]
 		},
 		{
-			"id": "9991269716935",
-			"createdAt": "2021-04-15T12:18:53.912Z",
-			"updatedAt": "2021-04-15T13:51:37.651Z",
-			"customerId": "28796450",
-			"type": "email",
-			"value": "adam.declercq@limpidius.com",
-			"lastUsedAt": "2021-04-15T13:51:37.222Z",
-			"bouncedAt": null,
-			"purposes": [
+			"id":"9991269716935",
+			"createdAt":"2021-04-15T12:18:53.912Z",
+			"updatedAt":"2021-04-15T13:51:37.651Z",
+			"customerId":"28796450",
+			"type":"email",
+			"value":"adam.declercq@limpidius.com",
+			"lastUsedAt":"2021-04-15T13:51:37.222Z",
+			"bouncedAt":null,
+			"purposes":[
 				{
-					"value": "demat"
+					"value":"demat"
 				}
 			]
 		},
 		{
-			"id": "6363297003603325293",
-			"createdAt": "2021-04-15T13:47:34.506Z",
-			"updatedAt": "2021-04-15T13:47:34.506Z",
-			"customerId": "C680310491515090220504331",
-			"type": "email",
-			"value": "adam.declercq+6783246@limpidius.com",
-			"lastUsedAt": "2021-04-15T13:47:34.066Z",
-			"purposes": [
+			"id":"6363297003603325293",
+			"createdAt":"2021-04-15T13:47:34.506Z",
+			"updatedAt":"2021-04-15T13:47:34.506Z",
+			"customerId":"C680310491515090220504331",
+			"type":"email",
+			"value":"adam.declercq+6783246@limpidius.com",
+			"lastUsedAt":"2021-04-15T13:47:34.066Z",
+			"purposes":[
 				{
-					"value": "demat"
+					"value":"demat"
 				}
 			]
 		},
 		{
-			"id": "660700049049200000399720210413102851",
-			"createdAt": "2021-04-15T13:43:00.740Z",
-			"updatedAt": "2021-04-15T13:43:00.740Z",
-			"customerId": "7000057249363",
-			"type": "email",
-			"value": "adam.declercq+785384142@limpidius.com",
-			"lastUsedAt": "2021-04-15T13:42:59.328Z",
-			"purposes": [
+			"id":"660700049049200000399720210413102851",
+			"createdAt":"2021-04-15T13:43:00.740Z",
+			"updatedAt":"2021-04-15T13:43:00.740Z",
+			"customerId":"7000057249363",
+			"type":"email",
+			"value":"adam.declercq+785384142@limpidius.com",
+			"lastUsedAt":"2021-04-15T13:42:59.328Z",
+			"purposes":[
 				{
-					"value": "demat"
+					"value":"demat"
 				}
 			]
 		},
 		{
-			"id": "0491243920680",
-			"createdAt": "2021-04-15T13:38:00.423Z",
-			"updatedAt": "2021-04-15T13:38:00.423Z",
-			"customerId": "3101104650591",
-			"type": "email",
-			"value": "adam.declercq+568521@limpidius.com",
-			"lastUsedAt": "2021-04-15T13:37:57.898Z",
-			"purposes": [
+			"id":"0491243920680",
+			"createdAt":"2021-04-15T13:38:00.423Z",
+			"updatedAt":"2021-04-15T13:38:00.423Z",
+			"customerId":"3101104650591",
+			"type":"email",
+			"value":"adam.declercq+568521@limpidius.com",
+			"lastUsedAt":"2021-04-15T13:37:57.898Z",
+			"purposes":[
 				{
-					"value": "demat"
+					"value":"demat"
 				}
 			]
 		}
