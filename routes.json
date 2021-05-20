@@ -1,3 +1,3 @@
 {
-    "/checkout\\?externalRef=:id": "/checkout/:id/customer"
+    "/checkout?externalRef=:id": "/checkout/:id/customer"
 }
