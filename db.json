@@ -11,30 +11,14 @@
 			"id":"7000057249363",
 			"customer":{
 				"email":"etienne.anonymous@magasin.fr",
-				"bounce":false,
-				"consents":[
-					[
-						"NO_PRINT",
-						true
-					]
-				]
+				"bounce":false
 			}
 		},
 		{
 			"id":"C680310491515090220504331",
 			"customer":{
 				"email":"claude.anonymous@magasin.fr",
-				"bounce":false,
-				"consents":[
-					[
-						"NO_PRINT",
-						false
-					],
-					[
-						"NEWSLETTER",
-						false
-					]
-				]
+				"bounce":false
 			}
 		},
 		{
@@ -49,17 +33,7 @@
 			"customer":{
 				"firstName":"Alexis",
 				"email":"alexis.anonymous@limpidius.com",
-				"bounce":false,
-				"consents":[
-					[
-						"NO_PRINT",
-						true
-					],
-					[
-						"NEWSLETTER",
-						true
-					]
-				]
+				"bounce":false
 			}
 		},
 		{
@@ -67,13 +41,7 @@
 			"customer":{
 				"firstName":"Adam",
 				"email":"tests@limpidius.com",
-				"bounce":false,
-				"consents":[
-					[
-						"NO_PRINT",
-						true
-					]
-				]
+				"bounce":false
 			}
 		},
 		{
@@ -88,7 +56,6 @@
 			"customer":{
 				"firstName":"michel",
 				"lastName":"testeur",
-				"title":"madame",
 				"email":"jean-hugo.anonymous@limpidius.com",
 				"bounce":false
 			}
@@ -217,9 +184,7 @@
 			"externalRef":"3333456789012",
 			"firstName":"adam",
 			"lastName":"declercq",
-			"birthDayDate":"1990-05-22T12:07:47.547Z",
-			"title":"monsieur",
-			"cardStatus":"valid"
+			"title":"monsieur"
 		},
 		{
 			"id":"7000057249363",
@@ -228,9 +193,7 @@
 			"externalRef":"3338901234567",
 			"firstName":"aldebert",
 			"lastName":"fredrich",
-			"birthDayDate":"1990-05-22T12:07:47.547Z",
-			"title":"monsieur",
-			"cardStatus":"used"
+			"title":"monsieur"
 		},
 		{
 			"id":"C680310491515090220504331",
@@ -239,9 +202,7 @@
 			"externalRef":"3337890123456",
 			"firstName":"mérédith",
 			"lastName":"hallister",
-			"birthDayDate":"1990-05-22T12:07:47.547Z",
-			"title":"madame",
-			"cardStatus":"unvalid"
+			"title":"madame"
 		},
 		{
 			"id":"28796450",
@@ -250,9 +211,7 @@
 			"externalRef":"414347t36",
 			"firstName":"michelle",
 			"lastName":"denise",
-			"birthDayDate":"1990-05-22T12:07:47.547Z",
-			"title":"madame",
-			"cardStatus":"valid"
+			"title":"madame"
 		},
 		{
 			"id":"9991269716935",
@@ -262,9 +221,7 @@
 			"externalCRMRef":null,
 			"firstName":"camille",
 			"lastName":"barnier",
-			"birthDayDate":"1990-05-22T12:07:47.547Z",
-			"title":"monsieur",
-			"cardStatus":"unvalid"
+			"title":"monsieur"
 		},
 		{
 			"id":"6363297003603325293",
@@ -274,9 +231,7 @@
 			"externalCRMRef":null,
 			"firstName":"estelle",
 			"lastName":"maillet",
-			"birthDayDate":"1990-05-22T12:07:47.547Z",
-			"title":"madame",
-			"cardStatus":"valid"
+			"title":"madame"
 		},
 		{
 			"id":"660700049049200000399720210413102851",
@@ -285,9 +240,7 @@
 			"externalRef":"postman-ABC",
 			"firstName":"mireille",
 			"lastName":"jibet",
-			"birthDayDate":"1990-05-22T12:07:47.547Z",
-			"title":"madame",
-			"cardStatus":"used"
+			"title":"madame"
 		},
 		{
 			"id":"0491243920680",
@@ -296,9 +249,7 @@
 			"externalRef":"michel.test@email.com",
 			"firstName":"michel",
 			"lastName":"testeur",
-			"birthDayDate":"1990-05-22T12:07:47.547Z",
-			"title":"monsieur",
-			"cardStatus":"used"
+			"title":"monsieur"
 		}
 	],
 	"transaction-receipts":[
@@ -310,9 +261,7 @@
 			"date":"2020-05-18T09:54:53.420Z",
 			"content":"***\nTOTAL 121.90\n***\n",
 			"barcodes":["3101104650591","28796450","C680310491515090220504331"],
-			"storeId":"92f2cb75-41a4-4dc6-af01-fd34aad60c94",
-			"filename":"ticket_de_caisse.pdf",
-			"dimensions":{}
+			"storeId":"92f2cb75-41a4-4dc6-af01-fd34aad60c94"
 		},
 		{
 			"id":"7000057249363",
@@ -322,9 +271,7 @@
 			"date":"2020-05-18T09:59:19.836Z",
 			"content":"***\nTOTAL 1320.95\n***\n",
 			"barcodes":["3101104650591","C680310491515090220504331","6363297003603325293"],
-			"storeId":"af1ddf1c-68cf-44e8-b560-6eab3c80c6d1",
-			"filename":"ticket_de_caisse.pdf",
-			"dimensions":{}
+			"storeId":"af1ddf1c-68cf-44e8-b560-6eab3c80c6d1"
 		},
 		{
 			"id":"C680310491515090220504331",
@@ -334,9 +281,7 @@
 			"date":"2020-05-18T10:00:15.764Z",
 			"content":"***\nTOTAL 91.85\n***\n",
 			"barcodes":["28796450","9991269716935","3101104650591"],
-			"storeId":"ed6bebdd-6030-4776-a46f-cc87f7f1b00f",
-			"filename":"ticket_de_caisse.pdf",
-			"dimensions":{}
+			"storeId":"ed6bebdd-6030-4776-a46f-cc87f7f1b00f"
 		},
 		{
 			"id":"28796450",
@@ -346,9 +291,7 @@
 			"date":"2020-05-18T10:01:15.265Z",
 			"content":"***\nTOTAL 200.00\n***\n",
 			"barcodes":["9991269716935","C680310491515090220504331"],
-			"storeId":"103c8ee4-1f5a-4e01-9ba7-a4ce0cc3bebd",
-			"filename":"ticket_de_caisse.pdf",
-			"dimensions":{}
+			"storeId":"103c8ee4-1f5a-4e01-9ba7-a4ce0cc3bebd"
 		},
 		{
 			"id":"9991269716935",
@@ -358,9 +301,7 @@
 			"date":"2020-05-18T10:05:54.536Z",
 			"content":"***\nTOTAL 803.50\n***\n",
 			"barcodes":["0491243920680","28796450"],
-			"storeId":"06666fab-49ab-42da-8243-7561944a84b6",
-			"filename":"ticket_de_caisse.pdf",
-			"dimensions":{}
+			"storeId":"06666fab-49ab-42da-8243-7561944a84b6"
 		},
 		{
 			"id":"6363297003603325293",
@@ -370,9 +311,7 @@
 			"date":"2020-05-18T10:10:42.070Z",
 			"content":"***\nTOTAL 2000.00\n***\n",
 			"barcodes":["6363297003603325293","660700049049200000399720210413102851"],
-			"storeId":"1ab0b6bd-b56f-4ac3-9b07-1caddaa3a813",
-			"filename":"ticket_de_caisse.pdf",
-			"dimensions":{}
+			"storeId":"1ab0b6bd-b56f-4ac3-9b07-1caddaa3a813"
 		},
 		{
 			"id":"660700049049200000399720210413102851",
@@ -382,9 +321,7 @@
 			"date":"2020-05-18T10:08:22.980Z",
 			"content":"***\nTOTAL 8.90\n***\n",
 			"barcodes":["3101104650591","0491243920680","0491243920680","3101104650591"],
-			"storeId":"57218211-4412-4f79-94cb-db3d6d8bf59b",
-			"filename":"ticket_de_caisse.pdf",
-			"dimensions":{}
+			"storeId":"57218211-4412-4f79-94cb-db3d6d8bf59b"
 		},
 		{
 			"id":"0491243920680",
@@ -394,9 +331,7 @@
 			"date":"2020-05-18T10:10:03.079Z",
 			"content":"***\nTOTAL 800.95\n***\n",
 			"barcodes":["3101104650591","660700049049200000399720210413102851"],
-			"storeId":"a8c72880-5d5b-4b56-bc08-2fcaa4257e8f",
-			"filename":"ticket_de_caisse.pdf",
-			"dimensions":{}
+			"storeId":"a8c72880-5d5b-4b56-bc08-2fcaa4257e8f"
 		}
 	]
 }
