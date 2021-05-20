@@ -103,7 +103,6 @@
 			"type":"email",
 			"value":"adam.declercq@limpidius.com",
 			"lastUsedAt":"2021-05-05T13:13:37.135Z",
-			"bouncedAt":null,
 			"purposes":[
 				{
 					"value":"demat"
@@ -116,7 +115,7 @@
 			"updatedAt":"2021-05-03T14:55:42.315Z",
 			"customerId":"660700049049200000399720210413102851",
 			"type":"email",
-			"value":"adam.declercq+376578214@limpidius.com",
+			"value":"adam.declercq+3765@limpidius.com",
 			"lastUsedAt":"2021-05-03T14:55:42.315Z",
 			"purposes":[
 				{
@@ -147,7 +146,6 @@
 			"type":"email",
 			"value":"adam.declercq@limpidius.com",
 			"lastUsedAt":"2021-04-15T13:55:13.545Z",
-			"bouncedAt":null,
 			"purposes":[
 				{
 					"value":"demat"
@@ -162,7 +160,6 @@
 			"type":"email",
 			"value":"adam.declercq@limpidius.com",
 			"lastUsedAt":"2021-04-15T13:51:37.222Z",
-			"bouncedAt":null,
 			"purposes":[
 				{
 					"value":"demat"
