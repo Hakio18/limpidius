@@ -1,48 +1,99 @@
 {
-	"users":[
+	"checkout":[
 	    {
 			"id":"3101104650591",
-			"name":"Marie",
-			"active":true,
-			"role":"SAV"
+			"customer":{
+				"email":"mohamed.anonymous@limpidius.com",
+				"bounce":false
+			}
 	    },
-	    {
+		{
 			"id":"7000057249363",
-			"name":"Jules",
-			"active":false,
-			"role":"VIGILE"
-	    },{
+			"customer":{
+				"email":"etienne.anonymous@magasin.fr",
+				"bounce":false,
+				"consents":[
+					[
+						"NO_PRINT",
+						true
+					]
+				]
+			}
+	    },
+		{
 			"id":"C680310491515090220504331",
-			"name":"Hugues",
-			"active":true,
-			"role":"VIGILE"
-	    },{
+			"customer":{
+				"email":"claude.anonymous@magasin.fr",
+				"bounce":false,
+				"consents":[
+					[
+						"NO_PRINT",
+						false
+					],
+					[
+						"NEWSLETTER",
+						false
+					]
+				]
+			}
+	    },
+		{
 			"id":"28796450",
-			"name":"Noémie",
-			"active":true,
-			"role":"SAV"
+			"customer":{
+				"email":"jerome.anonymous@joinapp.fr",
+				"bounce":false
+			}
 	    },
-	    {
+		{
 			"id":"9991269716935",
-			"name":"Nathalie",
-			"active":false,
-			"role":"SAV"
+			"customer":{
+				"firstName":"Alexis",
+				"email":"alexis.anonymous@limpidius.com",
+				"bounce":false,
+				"consents":[
+					[
+						"NO_PRINT",
+						true
+					],
+					[
+						"NEWSLETTER",
+						true
+					]
+				]
+			}
 	    },
-	    {
+		{
 			"id":"6363297003603325293",
-			"name":"Fanny",
-			"active":true,
-			"role":"VIGILE"
-	    },{
+			"customer":{
+				"firstName":"Adam",
+				"email":"tests@limpidius.com",
+				"bounce":false,
+				"consents":[
+					[
+						"NO_PRINT",
+						true
+					]
+				]
+			}
+	    },
+		{
 			"id":"660700049049200000399720210413102851",
-			"name":"Dénis",
-			"active":false,
-			"role":"VIGILE"
-	    },{
+			"customer":{
+				"email":"etienne.anonymous@magasin.fr",
+				"bounce":false
+			}
+	    },
+		{
 			"id":"0491243920680",
-			"name":"Auguste",
-			"active":false,
-			"role":"SAV"
+			"customer":{
+				"birthDayDate": "1990-05-22T12:07:47.547Z",
+				"cardStatus": "valid",
+				"firstName": "michel",
+				"lastName": "testeur",
+				"title": "madame",
+				"email": "jean-hugo.anonymous@limpidius.com",
+				"bounce": false
+			}
 	    }
 	],
 	"customers":[
@@ -144,7 +195,7 @@
 			"updatedAt":"2020-05-18T09:55:04.026Z",
 			"transactionRef":"BUJnVJqDCVvBWt4MUzYtGeg56fW0hKbu3oa+9GzSvoI=",
 			"date":"2020-05-18T09:54:53.420Z",
-			"content":"*******\nTOTAL 121.90\n*******\n<barcode>\n",
+			"content":"*******\nTOTAL 121.90\n*******\n",
 			"barcodes":["3101104650591", "3101104650591", "C680310491515090220504331"],
 			"storeId":"92f2cb75-41a4-4dc6-af01-fd34aad60c94",
 			"filename":"ticket_de_caisse.pdf",
@@ -156,7 +207,7 @@
 			"updatedAt":"2020-05-18T09:59:23.751Z",
 			"transactionRef":"TUcCfYcyYPcmLAAKUvTvH6UecfHA8+Nvo9kKpPGHpBY=",
 			"date":"2020-05-18T09:59:19.836Z",
-			"content":"*******\nTOTAL 1320.95\n*******\n<barcode>\n",
+			"content":"*******\nTOTAL 1320.95\n*******\n",
 			"barcodes":["3101104650591", "C680310491515090220504331", "6363297003603325293"],
 			"storeId":"af1ddf1c-68cf-44e8-b560-6eab3c80c6d1",
 			"filename":"ticket_de_caisse.pdf",
@@ -168,7 +219,7 @@
 			"updatedAt":"2020-05-18T10:00:18.839Z",
 			"transactionRef":"2fsTcAMXEvmnop6aU26qWGVYVRZibhSQfYojAaGJc5Y=",
 			"date":"2020-05-18T10:00:15.764Z",
-			"content":"*******\nTOTAL 91.85\n*******\n<barcode>\n",
+			"content":"*******\nTOTAL 91.85\n*******\n",
 			"barcodes":["28796450", "9991269716935", "3101104650591", "3101104650591", "3101104650591"],
 			"storeId":"ed6bebdd-6030-4776-a46f-cc87f7f1b00f",
 			"filename":"ticket_de_caisse.pdf",
@@ -180,7 +231,7 @@
 			"updatedAt":"2020-05-18T10:01:18.108Z",
 			"transactionRef":"wRdL2qsnx1h9aedvMDPq+CicFje9IQnPLVEmQlixiYQ=",
 			"date":"2020-05-18T10:01:15.265Z",
-			"content":"*******\nTOTAL 200.00\n*******\n<barcode>\n",
+			"content":"*******\nTOTAL 200.00\n*******\n",
 			"barcodes":["9991269716935", "C680310491515090220504331"],
 			"storeId":"103c8ee4-1f5a-4e01-9ba7-a4ce0cc3bebd",
 			"filename":"ticket_de_caisse.pdf",
@@ -192,7 +243,7 @@
 			"updatedAt":"2020-05-18T10:05:57.855Z",
 			"transactionRef":"AldRwFnzVc/73lR1ZH0Be60Q/keFfyxGvUfgbMZEDbA=",
 			"date":"2020-05-18T10:05:54.536Z",
-			"content":"*******\nTOTAL 803.50\n*******\n<barcode>\n",
+			"content":"*******\nTOTAL 803.50\n*******\n",
 			"barcodes":["0491243920680", "660700049049200000399720210413102851"],
 			"storeId":"06666fab-49ab-42da-8243-7561944a84b6",
 			"filename":"ticket_de_caisse.pdf",
@@ -204,7 +255,7 @@
 			"updatedAt":"2020-05-18T10:24:18.711Z",
 			"transactionRef":"eQfDF7Dc1zeFma2/M3U6S7jHjVw6roPhbTLy+QEMhbk=",
 			"date":"2020-05-18T10:10:42.070Z",
-			"content":"*******\nTOTAL 2000.00\n*******\n<barcode>\n",
+			"content":"*******\nTOTAL 2000.00\n*******\n",
 			"barcodes":["6363297003603325293", "660700049049200000399720210413102851"],
 			"storeId":"1ab0b6bd-b56f-4ac3-9b07-1caddaa3a813",
 			"filename":"ticket_de_caisse.pdf",
@@ -216,7 +267,7 @@
 			"updatedAt":"2020-05-18T10:24:22.847Z",
 			"transactionRef":"/0+EumLsuAmdd+AmZMqf8CHxhYhyoDzELmbgu7yOv3k=",
 			"date":"2020-05-18T10:08:22.980Z",
-			"content":"*******\nTOTAL 8.90\n*******\n<barcode>\n",
+			"content":"*******\nTOTAL 8.90\n*******\n",
 			"barcodes":["3101104650591", "0491243920680", "0491243920680", "3101104650591"],
 			"storeId":"57218211-4412-4f79-94cb-db3d6d8bf59b",
 			"filename":"ticket_de_caisse.pdf",
@@ -228,7 +279,7 @@
 			"updatedAt":"2020-05-18T10:24:24.423Z",
 			"transactionRef":"M7Kr+dX8qBc97n81sFpvuwUVUvTF5+AC/gj/dMOT0Go=",
 			"date":"2020-05-18T10:10:03.079Z",
-			"content":"*******\nTOTAL 800.95\n*******\n<barcode>\n",
+			"content":"*******\nTOTAL 800.95\n*******\n",
 			"barcodes":["3101104650591", "660700049049200000399720210413102851"],
 			"storeId":"a8c72880-5d5b-4b56-bc08-2fcaa4257e8f",
 			"filename":"ticket_de_caisse.pdf",
