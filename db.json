@@ -86,8 +86,6 @@
 		{
 			"id":"0491243920680",
 			"customer":{
-				"birthDayDate":"1990-05-22T12:07:47.547Z",
-				"cardStatus":"valid",
 				"firstName":"michel",
 				"lastName":"testeur",
 				"title":"madame",
